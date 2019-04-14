@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Compass CBT</title>
+    <link>https://compasscbt.com/</link>
+    <description>Recent content on Compass CBT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Mar 2019 20:01:38 -0400</lastBuildDate>
+    
+	<atom:link href="https://compasscbt.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://compasscbt.com/about/</link>
+      <pubDate>Mon, 18 Mar 2019 20:01:38 -0400</pubDate>
+      
+      <guid>https://compasscbt.com/about/</guid>
+      <description>Dr. Regina Lazarovich, Ph.D.  Licensed Clinical Psychologist in California (PSY&amp;hellip;) and New York (020676)
+  I know that entering therapy can feel vulnerable and scary. I founded Compass CBT with the intention of providing a safe and non-judgmental space for the challenging and life-changing work of therapy. I approach each client with warmth, curiosity, and respect. While some people know what they want from therapy, not everyone does, and that&amp;rsquo;s okay.</description>
+    </item>
+    
+    <item>
+      <title>Approach</title>
+      <link>https://compasscbt.com/approach/</link>
+      <pubDate>Mon, 18 Mar 2019 20:01:38 -0400</pubDate>
+      
+      <guid>https://compasscbt.com/approach/</guid>
+      <description>Therapy is a very personal process and you are a complex human being, not just a collection of symptoms. In our early sessions I will conduct a thorough assessment in order to understand your social and cultural background, life experiences, circumstances, struggles and concerns. Together, we will set goals guided by your values and priorities, and I will devise a treatment plan to help you reach them. We will discuss the plan in detail; you will always know what we are doing and why.</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://compasscbt.com/</link>
+      <pubDate>Sat, 16 Mar 2019 23:21:05 -0400</pubDate>
+      
+      <guid>https://compasscbt.com/</guid>
+      <description>I am Dr. Regina Lazarovich, Ph.D., clinical psychologist and founder of Compass CBT. My mission is to help you find the life you want. I provide evidence-based cognitive behavior therapy with a compassionate individually-tailored approach. Together we can identify and change unhelpful patterns of thought and behavior that cloud your path. It is never too late to improve your quality of life and experience profound personal growth.
+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://compasscbt.com/contact/</link>
+      <pubDate>Sat, 16 Mar 2019 22:01:46 -0400</pubDate>
+      
+      <guid>https://compasscbt.com/contact/</guid>
+      <description>      Contact Us   Stop by for a visit  123 Office Park Road, Scotts Valley, CA   hello@compasscbt.com   &amp;#43;1 347-735-9740   {{ range .Site.Params.contact.social }}    {{ end }}  --     </description>
+    </item>
+    
+  </channel>
+</rss>
