@@ -47,8 +47,8 @@ Get in Touch When you are ready to get started, you can either call me directly 
       <pubDate>Mon, 18 Mar 2019 20:01:38 -0400</pubDate>
       
       <guid>https://rbosetti.github.io/about/</guid>
-      <description>Dr. Regina Lazarovich, Ph.D.  Licensed Clinical Psychologist in California (PSY&amp;hellip;) and New York (020676)
-  I know that entering therapy can feel scary and vulnerable. I founded Compass CBT with the intention of providing a safe and non-judgmental space for the life-changing work of therapy. I approach each client with warmth, curiosity and respect. While some people know what they want from therapy, not everyone does, and that’s okay.</description>
+      <description>Licensed Clinical Psychologist in California (PSY&amp;hellip;) and New York (020676)
+  I know that entering therapy can feel scary and vulnerable. I founded Compass CBT with the intention of providing a safe and non-judgmental space for the life-changing work of therapy. I approach each client with warmth, curiosity and respect. While some people know what they want from therapy, not everyone does, and that’s okay. I collaborate with each client to identify what matters most to them and design an individualized treatment plan to alleviate suffering and enable personal growth.</description>
     </item>
     
     <item>
@@ -78,7 +78,7 @@ Cognitive Behavioral Therapy (CBT) CBT is a therapeutic approach that focuses on
       <pubDate>Sat, 16 Mar 2019 22:01:46 -0400</pubDate>
       
       <guid>https://rbosetti.github.io/contact/</guid>
-      <description>      Contact Us   Stop by for a visit  123 Office Park Road, Scotts Valley, CA   hello@compasscbt.com   &amp;#43;1 347-735-9740   {{ range .Site.Params.contact.social }}    {{ end }}  --     </description>
+      <description>      Contact Us    </description>
     </item>
     
   </channel>
