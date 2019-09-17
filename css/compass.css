@@ -3,3 +3,10 @@
 .compass-logo {
   width: 200px;
 }
+
+.tree-bg {
+  background-image: url(./img/tree-background.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% auto;
+}
