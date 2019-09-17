@@ -1,12 +1,52 @@
 /** Alicia Fay Web, LLC **/
 
+body {
+  background: #FFFFFF;
+}
 .compass-logo {
   width: 200px;
 }
 
+.compass-header {
+  background-color: white;
+  border-bottom: 1px solid #eee;
+  padding: 0;
+}
+
+.green {
+  color: #053b0e;
+}
+.green:hover {
+  color: rgba (5, 59, 14,0.8);
+}
+
+.compass-nav .nav-item > a {
+  color: #000;
+}
+
+.compass-nav .nav-item > a:hover {
+  color: rgba (0, 0, 0,0.8);
+}
+
+.background-band {
+  background-image: url("../img/tree_rings_1600.jpg");
+  height: 200px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 50px;
+}
+
 .tree-bg {
-  background-image: url(./img/tree-background.jpg);
+  background-image: url("../img/tree-background.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100% auto;
+}
+
+/* HOME */
+
+.trees {
+  width: 80%;
 }
